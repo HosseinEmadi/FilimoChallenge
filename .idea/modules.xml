@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BuildConfigPlugin/BuildConfigPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/BuildConfigPlugin/BuildConfigPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DependenciesPlugin/DependenciesPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/DependenciesPlugin/DependenciesPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilimoChallenge.iml" filepath="$PROJECT_DIR$/.idea/modules/FilimoChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FilimoChallenge.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FilimoChallenge.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/FilimoChallenge.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/FilimoChallenge.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/FilimoChallenge.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/FilimoChallenge.domain.iml" />
+    </modules>
+  </component>
+</project>

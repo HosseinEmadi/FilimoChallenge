@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FilimoChallenge</string>
+    <string name="unknown_error">خطای نامشخص</string>
+    <string name="movie_duration">"مدت : "</string>
+    <string name="description">image</string>
+    <string name="search">جست و جو</string>
+    <string name="empty_result">جست و جو شما نتیجه ای نداشت</string>
+    <string name="search_movie">لطفا نام فیلم را وارد کنید</string>
+</resources>

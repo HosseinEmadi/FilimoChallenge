@@ -1,0 +1,1 @@
+/Users/hossein/StudioProjects/FilimoChallenge/DependenciesPlugin/build/classes/kotlin/main/Deps.class:/Users/hossein/StudioProjects/FilimoChallenge/DependenciesPlugin/build/classes/kotlin/main/LibDependency.class:/Users/hossein/StudioProjects/FilimoChallenge/DependenciesPlugin/build/classes/kotlin/main/Versions.class
