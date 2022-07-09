@@ -35,7 +35,7 @@ fun SearchView(state: MutableState<TextFieldValue>) {
             viewModel.searchMovie(value.text)
         },
         label = { Text(
-            text = stringResource(id = R.string.search_movie),
+            text = stringResource(id = R.string.search),
             color = Color.White
         ) },
 
